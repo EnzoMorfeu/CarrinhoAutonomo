@@ -35,3 +35,6 @@ O projeto busca desenvolver um sistema capaz de controlar a movimentação do ca
 
 ## Status
 Concluido
+
+
+PALABRAS ChAVE:robôs autônomos, controlador, sensor de cores, Sensor RGB, Sensor inflarvermelho.
